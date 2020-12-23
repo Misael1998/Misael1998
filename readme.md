@@ -1,11 +1,14 @@
 <h1 align="center"> Hi there, I'm Misa :v: </h1>
 
-<h3 align="center"> I'm a software engineer student 💻</h3>
+<h3 align="center"> I'm a systems engineer student 💻</h3>
 
 Facts about me
 
-- :pencil: I like learning a lot
 - :honduras: I'm from Honduras
+- :rocket: I love space
+- :satellite: I'm working on a cubesat project
+- :file_folder: I love backend development and systems architecture
+- :notes: I'm learning low level and realtime programming
 
 <h3 align="center"><strong>You can contact me on 📱</strong></h3>
 <p align="center">
@@ -13,8 +16,6 @@ Facts about me
 </a> 
 <a href="https://linkedin.com/in/misael-landero-79a8ab175" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-
-<br>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
