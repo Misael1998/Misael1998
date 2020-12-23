@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Misa :v: </h1>
 
-<h3 align="center"> I'm a systems engineer student 💻</h3>
+<h3 align="center"> I'm a systems engineer student</h3>
 
 Facts about me
 
@@ -8,7 +8,7 @@ Facts about me
 - :rocket: I love space
 - :satellite: I'm working on a cubesat project
 - :file_folder: I love backend development and systems architecture
-- :notes: I'm learning low level and realtime programming
+- :computer: I'm learning low level and realtime programming
 
 <h3 align="center"><strong>You can contact me on 📱</strong></h3>
 <p align="center">
