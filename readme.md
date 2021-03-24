@@ -8,7 +8,6 @@ Facts about me
 - :rocket: I love space
 - :satellite: I'm working on a cubesat project
 - :file_folder: I love backend development and systems architecture
-- :computer: I'm learning low level and realtime programming
 
 <h3 align="center"><strong>You can contact me on 📱</strong></h3>
 <p align="center">
